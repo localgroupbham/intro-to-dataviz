@@ -21,7 +21,7 @@ This document: https://github.com/localgroupbham/intro-to-dataviz
 
 Obviously we could do a whole semester about data visualization. My goal in this class is to get you past the very first roadblocks so you can start to learn on your own.
 
-This class will also be heavily directly by _your_ interests and questions. After the class I'll flesh out document (https://github.com/localgroupbham/intro-to-dataviz)
+This class will also be heavily directly by _your_ interests and questions. After the class I'll flesh out this document (https://github.com/localgroupbham/intro-to-dataviz) with more notes and links that we discussed today.
 
 * What is data visualization?
 * How it differs from data science
