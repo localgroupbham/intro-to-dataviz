@@ -3,6 +3,7 @@ Taught by Alan McConchie at Localgroup Studio
 
 This document: https://github.com/localgroupbham/intro-to-dataviz
 
+Wifi: 221prospect password: prospect
 
 # Outline:
 
